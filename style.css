@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    font-family:Helvetica, sans-serif;
+}
+header, footer, nav{
+    color: white;
+    padding: 2px;
+}
+footer, header{
+    baclkground-color: darkgreen;
+}
+nav{
+    background-color: forestgreen;
+}
+section{
+    background-color: lightgreen; width: 33%; height: 550px; padding: 10px 0px 0px 0px; 
+}
+h2{
+    width: 33%; display: inline-block;
+}
+table, td, th{
+    border: 1px solid darkgreen;
+}
+table{
+    width: 90%; border-collapse: collapse;
+}
+#C img{
+    width: 95%; border-radius: 9px;
+}
+main{
+    display: flex;
+}
+#L tr:hover{
+    background-color: forestgreen;
+}
