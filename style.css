@@ -7,7 +7,7 @@ header, footer, nav{
     padding: 2px;
 }
 footer, header{
-    baclkground-color: darkgreen;
+    background-color: darkgreen;
 }
 nav{
     background-color: forestgreen;
@@ -26,10 +26,15 @@ table{
 }
 #C img{
     width: 95%; border-radius: 9px;
+
 }
 main{
     display: flex;
+    
 }
 #L tr:hover{
     background-color: forestgreen;
+}
+#C{
+    overflow: auto;
 }
